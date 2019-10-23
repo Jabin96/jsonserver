@@ -2,5 +2,7 @@
   "products":[
     {"id":1,"name":"Samsung 50'' TV", "quantity":"3"},
     {"id":2,"name":"Redmi Note 4", "quantity":"1"}
-  ]
+  
+   {"id":3,"name":"Realme", "quantity":"5"}
+]
 }
