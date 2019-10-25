@@ -1,8 +1,37 @@
 {
-  "products":[
-    {"id":1,"name":"Samsung 50'' TV", "quantity":"3"},
-    {"id":2,"name":"Redmi Note 4", "quantity":"1"},
-  
-   {"id":3,"name":"Realme", "quantity":"5"}
-]
+  "Products" : [
+    {       
+      "id" : 1,
+     "Title": "Cricket",
+     "Author": "Dhoni",
+      "ISBN": "5678",
+      "PublicationDate" :"07-08-2010",
+      "Price": "50.00",
+      "Genre": "Sports",
+      "Format": "PDF"
+    
+   },
+     {       
+      "id" : 2,
+     "Title": "God of Cricket",
+     "Author": "Sachin",
+      "ISBN": "1234",
+      "PublicationDate" :"09-03-2013",
+      "Price": "150.00",
+      "Genre": "Sports",
+      "Format": "PDF"
+    
+   },
+     {       
+      "id" : 3,
+     "Title": "Wings of Fire",
+     "Author": "Abdul Kalam",
+      "ISBN": "678",
+      "PublicationDate" :"07-08-2010",
+      "Price": "50.00",
+      "Genre": "Education",
+      "Format": "PDF"
+    
+   }
+  ] 
 }
